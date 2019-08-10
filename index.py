@@ -29,7 +29,7 @@ containers = main_article.findAll('article')
 
 
 #save inte .csv file 
-filename = "tarifica.csv"
+filename = "scrap.csv"
 f = open(filename, "w")
 
 #headers for the .csv file
